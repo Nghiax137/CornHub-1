@@ -14,3 +14,4 @@ Route::get('/genres', function () {
 Route::get('/watch', function () {
     return view('watch');
 });
+// g0a
